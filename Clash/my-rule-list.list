@@ -1,9 +1,0 @@
-DOMAIN-SUFFIX,ak64.comDOMAIN-SUFFIX,138234.xyz
-- DOMAIN-SUFFIX,epg-1.iill.top,DIRECT
-## 解决ColoudFlare的Zero Trust经常失联掉线问题
-- DOMAIN-SUFFIX,argotunnel.com,DIRECT
-
-- DOMAIN-REGEX,^.*hga\d{3}\.com$,DIRECT
-- DOMAIN-REGEX,^.*mos\d{3}\.com$,DIRECT
-- DOMAIN-REGEX,^.*crw\d{3}\.com$,DIRECT
-- IP-CIDR,43.229.0.0/24,DIRECT,no-resolve
