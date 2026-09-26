@@ -11,8 +11,5 @@ DOMAIN-REGEX,^.*hgapp000\d{1}\.com$
 IP-CIDR,43.229.0.0/24,no-resolve
 IP-CIDR,210.16.116.125/24,no-resolve
 
-## 匹配数据发起IP(直连)
-SRC-IP-CIDR,192.168.11.203/32,MYGROUPS
-
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,r.inews.qq.com
